@@ -14,10 +14,10 @@ const book = {
     "The Gift is a picture book that uses watercolor to depict the quiet social expectations imposed on girls and monoprinting to visualize a child’s explosive imagination, reframing the act of opening a present as a journey from externally defined gender roles to self-discovered creative power..",
   cover: "/image/picturebook/bookcover3.jpg",
   pages: [
-    "/image/picturebook/thegift1.jpg",
-    "/image/picturebook/thegift2.jpg",
+    "/image/picturebook/thegift1.png",
+    "/image/picturebook/thegift2.png",
     "/image/picturebook/thegift3.jpg",
-    "/image/picturebook/thegift4.jpg",
+    "/image/picturebook/thegift4.png",
     /* Add more spread images here */
   ],
 }
