@@ -18,17 +18,17 @@ const books = [
   {
     slug: "book-two",
     title: "A Strange night at the ruins",
-    cover: "/images/bookcover4.jpg",
+    cover: "/image/bookcover4.jpg",
   },
   {
     slug: "book-three",
     title: "Mr.Fox",
-    cover: "/images/bookcover1.jpg",
+    cover: "/image/bookcover1.jpg",
   },
   {
     slug: "book-four",
     title: "The Gift",
-    cover: "/images/bookcover3.jpg",
+    cover: "/image/bookcover3.jpg",
   },
   /* Add more books here — just copy the pattern above */
 ]
