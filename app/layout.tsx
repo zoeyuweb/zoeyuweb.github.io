@@ -10,9 +10,13 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" })
 const playfair = Playfair_Display({ subsets: ["latin"], variable: "--font-playfair" })
 
 export const metadata: Metadata = {
-  title: "Portfolio",
-  description: "Illustrator & Picture Book Artist",
+  title: "ZHEYUE ZHANG",
+  description: "Illustrator & PictureBook Artist",
 }
+
+icons: {
+    icon: "/image/logo.jpg", 
+   },
 
 export default function RootLayout({
   children,
