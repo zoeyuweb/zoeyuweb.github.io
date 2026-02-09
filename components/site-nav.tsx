@@ -26,7 +26,7 @@ export function SiteNav() {
           aria-label="Home"
         >
           <Image
-            src="/images/logo.jpg"
+            src="/image/logo.jpg"
             alt="Site logo"
             width={32}
             height={32}
