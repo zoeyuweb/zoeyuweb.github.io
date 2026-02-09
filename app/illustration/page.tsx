@@ -15,7 +15,7 @@ const illustrations: GalleryItem[] = [
   { src: "/image/illustration/illustration6.jpg", alt: "Illustration 6" },
   { src: "/image/illustration/illustration7.jpg", alt: "Illustration 7" },
   { src: "/image/illustration/illustration8.jpg", alt: "Illustration 8" },
-  { src: "/image/illustration/illustration9.jpg", alt: "Illustration 9" },
+  { src: "/image/illustration/illustration9.png", alt: "Illustration 9" },
   { src: "/image/illustration/illustration10.jpg", alt: "Illustration 10" },
   { src: "/image/illustration/illustration11.jpg", alt: "Illustration 11" },
 ]
