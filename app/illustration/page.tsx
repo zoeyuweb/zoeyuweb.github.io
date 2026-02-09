@@ -7,12 +7,17 @@ import type { GalleryItem } from "@/components/gallery-grid"
   The gallery handles variable aspect ratios automatically.
 */
 const illustrations: GalleryItem[] = [
-  { src: "/images/illustration-01.jpg", alt: "Illustration 1" },
-  { src: "/images/illustration-02.jpg", alt: "Illustration 2" },
-  { src: "/images/illustration-03.jpg", alt: "Illustration 3" },
-  { src: "/images/illustration-04.jpg", alt: "Illustration 4" },
-  { src: "/images/illustration-05.jpg", alt: "Illustration 5" },
-  { src: "/images/illustration-06.jpg", alt: "Illustration 6" },
+  { src: "/image/illustration/illustration1.jpg", alt: "Illustration 1" },
+  { src: "/image/illustration/illustration2.jpg", alt: "Illustration 2" },
+  { src: "/image/illustration/illustration3.jpg", alt: "Illustration 3" },
+  { src: "/image/illustration/illustration4.jpg", alt: "Illustration 4" },
+  { src: "/image/illustration/illustration5.jpg", alt: "Illustration 5" },
+  { src: "/image/illustration/illustration6.jpg", alt: "Illustration 6" },
+  { src: "/image/illustration/illustration7.jpg", alt: "Illustration 7" },
+  { src: "/image/illustration/illustration8.jpg", alt: "Illustration 8" },
+  { src: "/image/illustration/illustration9.jpg", alt: "Illustration 9" },
+  { src: "/image/illustration/illustration10.jpg", alt: "Illustration 10" },
+  { src: "/image/illustration/illustration11.jpg", alt: "Illustration 11" },
 ]
 
 export default function IllustrationPage() {
