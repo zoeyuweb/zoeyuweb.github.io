@@ -14,10 +14,10 @@ const book = {
     "Miss Mary pretended to be a naive lady and deliberately approached Mr. Fox at the ball. She set a trap by pretending to be engaged, luring him into revealing his true colors. Eventually, she obtained the evidence of the crime and apprehended him herself. Material: Riso printing, digital",
   cover: "/image/picturebook/bookcover1.jpg",
   pages: [
-    "/images/picturebook/mrfox1.jpg",
-    "/images/picturebook/mrfox2.jpg",
-    "/images/picturebook/mrfox3.jpg",
-    "/images/picturebook/mrfox4.jpg",
+    "/image/picturebook/mrfox1.jpg",
+    "/image/picturebook/mrfox2.jpg",
+    "/image/picturebook/mrfox3.jpg",
+    "/image/picturebook/mrfox4.jpg",
     /* Add more spread images here */
   ],
 }
