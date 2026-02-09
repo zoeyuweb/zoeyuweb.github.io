@@ -13,22 +13,22 @@ const books = [
   {
     slug: "book-one",
     title: "The Seamonster's Island",
-    cover: "/image/bookcover2.jpg",
+    cover: "/image/picturebook/bookcover2.jpg",
   },
   {
     slug: "book-two",
     title: "A Strange night at the ruins",
-    cover: "/image/bookcover4.jpg",
+    cover: "/image/picturebook/bookcover4.jpg",
   },
   {
     slug: "book-three",
     title: "Mr.Fox",
-    cover: "/image/bookcover1.jpg",
+    cover: "/image/picturebook/bookcover1.jpg",
   },
   {
     slug: "book-four",
     title: "The Gift",
-    cover: "/image/bookcover3.jpg",
+    cover: "/image/picturebook/bookcover3.jpg",
   },
   /* Add more books here — just copy the pattern above */
 ]
