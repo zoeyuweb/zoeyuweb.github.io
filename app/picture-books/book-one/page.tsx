@@ -7,16 +7,16 @@ import Link from "next/link"
   Add or remove images in the `pages` array freely — the grid adapts.
 */
 const book = {
-  title: "Book Title One",
-  year: "2024",
-  publisher: "Publisher Name",
+  title: "The Seamonster's Island",
+  year: "2026",
+  publisher: "",
   description:
-    "A longer description of this picture book project. Tell readers about the story, your inspiration, the medium you used, and any other details that matter to you. This text can be several sentences or a short paragraph.",
-  cover: "/images/books/book-one-cover.jpg",
+    "A lonely sea monster quietly watches the daily lives of people on its island, observing their routines and joys, until in the end, it finds a friend of its own. Materials: Watercolor, colored pencils",
+  cover: "/image/bookcover2.jpg",
   pages: [
-    "/images/books/book-one-spread-01.jpg",
-    "/images/books/book-one-spread-02.jpg",
-    "/images/books/book-one-spread-03.jpg",
+    "/image/seamonster1.jpg",
+    "/image/seamonster2.jpg",
+    "/image/seamonster13.jpg",
     /* Add more spread images here */
   ],
 }
