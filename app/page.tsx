@@ -8,9 +8,9 @@ import Image from "next/image"
   Replace src with your own images — any aspect ratio works.
 */
 const featured = [
-  { src: "/images/work-01.jpg", alt: "Picture books", href: "/picture-books", label: "Picture Books" },
-  { src: "/images/work-02.jpg", alt: "Illustration", href: "/illustration", label: "Illustration" },
-  { src: "/images/work-03.jpg", alt: "Sketches", href: "/sketches", label: "Sketches" },
+  { src: "/image/seamonster1.jpg", alt: "Picture books", href: "/picture-books", label: "Picture Books" },
+  { src: "/image/illustration2.jpg", alt: "Illustration", href: "/illustration", label: "Illustration" },
+  { src: "/image/sket (3).jpg", alt: "Sketches", href: "/sketches", label: "Sketches" },
 ]
 
 export default function HomePage() {
@@ -19,10 +19,10 @@ export default function HomePage() {
       {/* Name & tagline */}
       <section className="mb-16 max-w-2xl">
         <h1 className="font-serif text-4xl leading-tight tracking-tight text-foreground md:text-5xl text-balance">
-          Your Name
+          Zheyue Zhang
         </h1>
         <p className="mt-3 text-base text-muted-foreground">
-          Illustrator &amp; Picture Book Artist
+          Illustrator &amp; PictureBook Artist
         </p>
       </section>
 
