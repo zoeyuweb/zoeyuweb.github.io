@@ -16,7 +16,7 @@ const book = {
   pages: [
     "/image/picturebook/seamonster1.jpg",
     "/image/picturebook/seamonster2.jpg",
-    "/image/picturebook/seamonster13.jpg",
+    "/image/picturebook/seamonster3.jpg",
     /* Add more spread images here */
   ],
 }
