@@ -5,7 +5,7 @@ export function SiteFooter() {
         <p>&copy; {new Date().getFullYear()} Portfolio. All rights reserved.</p>
         <div className="flex items-center gap-6">
           <a
-            href="https://instagram.com"
+            href="https://www.instagram.com/zoey_z_zhang/"
             target="_blank"
             rel="noopener noreferrer"
             className="transition-colors hover:text-foreground"
@@ -13,15 +13,15 @@ export function SiteFooter() {
             Instagram
           </a>
           <a
-            href="https://behance.net"
+            href="https://xhslink.com/m/9okEODrqrnG"
             target="_blank"
             rel="noopener noreferrer"
             className="transition-colors hover:text-foreground"
           >
-            Behance
+            Xiaohongshu/Red
           </a>
           <a
-            href="mailto:hello@example.com"
+            href="mailto:zheyue.artist@gmail.com"
             className="transition-colors hover:text-foreground"
           >
             Email
