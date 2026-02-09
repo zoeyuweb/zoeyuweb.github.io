@@ -7,15 +7,17 @@ import Link from "next/link"
   Add or remove images in the `pages` array freely — the grid adapts.
 */
 const book = {
-  title: "Book Title Two",
-  year: "2023",
-  publisher: "Publisher Name",
+  title: "The Gift",
+  year: "2024",
+  publisher: "",
   description:
-    "A description of your second picture book project. Share the story behind the work, your creative process, and any noteworthy details.",
-  cover: "/images/books/book-two-cover.jpg",
+    "The Gift is a picture book that uses watercolor to depict the quiet social expectations imposed on girls and monoprinting to visualize a child’s explosive imagination, reframing the act of opening a present as a journey from externally defined gender roles to self-discovered creative power..",
+  cover: "/image/picturebook/bookcover3.jpg",
   pages: [
-    "/images/books/book-two-spread-01.jpg",
-    "/images/books/book-two-spread-02.jpg",
+    "/image/picturebook/thegift1.jpg",
+    "/image/picturebook/thegift2.jpg",
+    "/image/picturebook/thegift3.jpg",
+    "/image/picturebook/thegift4.jpg",
     /* Add more spread images here */
   ],
 }
