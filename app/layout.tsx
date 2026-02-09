@@ -12,11 +12,10 @@ const playfair = Playfair_Display({ subsets: ["latin"], variable: "--font-playfa
 export const metadata: Metadata = {
   title: "ZHEYUE ZHANG",
   description: "Illustrator & PictureBook Artist",
-}
-
-icons: {
+  icons: {
     icon: "/image/logo.jpg", 
-},
+  },
+}
 
 export default function RootLayout({
   children,
