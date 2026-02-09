@@ -7,15 +7,17 @@ import Link from "next/link"
   Add or remove images in the `pages` array freely — the grid adapts.
 */
 const book = {
-  title: "Book Title Two",
-  year: "2023",
-  publisher: "Publisher Name",
+  title: "A Strange night at the ruins",
+  year: "",
+  publisher: "",
   description:
-    "A description of your second picture book project. Share the story behind the work, your creative process, and any noteworthy details.",
-  cover: "/images/books/book-two-cover.jpg",
+    "Rumors of ghosts haunt the 16th-century Colosseum ruins. When a group enters at night, the ruins begin to transform, blurring the line between reality and imagination. What is the truth behind it? Are there truly ghosts wandering within? In this project, I experimented with tetra pak prints and riso printing to showcase the architectural historical sense. At the same time, using pastels and colored pencils, an attempt was made to create a sense of historical weight and an atmosphere of suspense in the story.",
+  cover: "/image/picturebook/bookcover4.jpg",
   pages: [
-    "/images/books/book-two-spread-01.jpg",
-    "/images/books/book-two-spread-02.jpg",
+    "/image/picturebook/ruins1.jpg",
+    "/image/picturebook/ruins2.jpg",
+    "/image/picturebook/ruins3.jpg",
+    "/image/picturebook/ruins4.jpg",
     /* Add more spread images here */
   ],
 }
