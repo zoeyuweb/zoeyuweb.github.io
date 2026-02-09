@@ -8,9 +8,9 @@ import Image from "next/image"
   Replace src with your own images — any aspect ratio works.
 */
 const featured = [
-  { src: "/image/seamonster1.jpg", alt: "Picture books", href: "/picture-books", label: "Picture Books" },
-  { src: "/image/illustration2.jpg", alt: "Illustration", href: "/illustration", label: "Illustration" },
-  { src: "/image/sket (3).jpg", alt: "Sketches", href: "/sketches", label: "Sketches" },
+  { src: "/image/picturebook/seamonster1.jpg", alt: "Picture books", href: "/picture-books", label: "Picture Books" },
+  { src: "/image/illustration/illustration2.jpg", alt: "Illustration", href: "/illustration", label: "Illustration" },
+  { src: "/image/sketch/sket%20(3).jpg", alt: "Sketches", href: "/sketches", label: "Sketches" },
 ]
 
 export default function HomePage() {
