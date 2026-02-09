@@ -12,11 +12,11 @@ const book = {
   publisher: "",
   description:
     "A lonely sea monster quietly watches the daily lives of people on its island, observing their routines and joys, until in the end, it finds a friend of its own. Materials: Watercolor, colored pencils",
-  cover: "/image/bookcover2.jpg",
+  cover: "/image/picturebook/bookcover2.jpg",
   pages: [
-    "/image/seamonster1.jpg",
-    "/image/seamonster2.jpg",
-    "/image/seamonster13.jpg",
+    "/image/picturebook/seamonster1.jpg",
+    "/image/picturebook/seamonster2.jpg",
+    "/image/picturebook/seamonster13.jpg",
     /* Add more spread images here */
   ],
 }
