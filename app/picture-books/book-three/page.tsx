@@ -7,15 +7,17 @@ import Link from "next/link"
   Add or remove images in the `pages` array freely — the grid adapts.
 */
 const book = {
-  title: "Book Title Two",
-  year: "2023",
-  publisher: "Publisher Name",
+  title: "Mr.Fox",
+  year: "",
+  publisher: "",
   description:
-    "A description of your second picture book project. Share the story behind the work, your creative process, and any noteworthy details.",
-  cover: "/images/books/book-two-cover.jpg",
+    "Miss Mary pretended to be a naive lady and deliberately approached Mr. Fox at the ball. She set a trap by pretending to be engaged, luring him into revealing his true colors. Eventually, she obtained the evidence of the crime and apprehended him herself. Material: Riso printing, digital",
+  cover: "/image/picturebook/bookcover1.jpg",
   pages: [
-    "/images/books/book-two-spread-01.jpg",
-    "/images/books/book-two-spread-02.jpg",
+    "/images/picturebook/mrfox1.jpg",
+    "/images/picturebook/mrfox2.jpg",
+    "/images/picturebook/mrfox3.jpg",
+    "/images/picturebook/mrfox4.jpg",
     /* Add more spread images here */
   ],
 }
