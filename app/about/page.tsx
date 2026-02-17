@@ -11,7 +11,7 @@ export default function AboutPage() {
         {/* Portrait — replace src with your own photo */}
         <div className="w-full shrink-0 overflow-hidden rounded-sm md:w-72">
           <Image
-            src="/images/portrait.jpg"
+            src="/image/zoey.jpg"
             alt="Artist portrait"
             width={600}
             height={800}
