@@ -11,7 +11,7 @@ const book = {
   year: "2026",
   publisher: "",
   description:
-    "A lonely sea monster quietly watches the daily lives of people on its island, observing their routines and joys, until in the end, it finds a friend of its own. `Materials: Watercolor, colored pencils",
+    "A lonely sea monster quietly watches the daily lives of people on its island, observing their routines and joys, until in the end, it finds a friend of its own. \nMaterials: Watercolor, colored pencils",
   cover: "/image/picturebook/cover10.jpg",
   pages: [
     "/image/picturebook/seamonster1.jpg",
