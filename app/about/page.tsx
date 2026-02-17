@@ -4,10 +4,10 @@ export default function AboutPage() {
   return (
     <div className="mx-auto max-w-6xl px-6 py-16 md:py-24">
       <h1 className="font-serif text-3xl tracking-tight text-foreground md:text-4xl mb-12">
-        About
+        Zheyue Zhang
       </h1>
 
-      <div className="flex flex-col gap-10 md:flex-row md:gap-16">
+      <div className="flex flex-col-reverse gap-10 md:flex-row md:gap-16">
         {/* Portrait — replace src with your own photo */}
         <div className="w-full shrink-0 overflow-hidden rounded-sm md:w-72">
           <Image
@@ -24,14 +24,15 @@ export default function AboutPage() {
         {/* Bio text */}
         <div className="max-w-lg">
           <p className="text-base leading-relaxed text-muted-foreground">
-            Hello, I am an illustrator and picture book artist. My work
-            explores the intersection of storytelling and visual art, with a
-            focus on warmth, texture, and narrative detail.
+            Hello, I am an illustrator and designer who is slightly obsessed with
+            historical settings and the tension they create. I explore visual storytelling through
+            illustration, picture books, and comics—choosing the form that best fits the heartbeat of the narrative.
           </p>
           <p className="mt-4 text-base leading-relaxed text-muted-foreground">
-            I have worked with publishers and studios on a range of projects
-            including children&apos;s picture books, editorial illustrations,
-            and personal art. I am always looking for new stories to tell.
+           I treat my practice as a laboratory for curiosity. Using watercolour and mixed media, 
+            I experiment with colour and space to craft environments that feel both epic and intimate.
+            Whether I’m sketching from observation or building a fantasy world from scratch,
+            I’m always chasing that specific mood—a blend of warmth, texture, and a hint of narrative unease.
           </p>
           <p className="mt-4 text-base leading-relaxed text-muted-foreground">
             Feel free to reach out for collaborations, commissions, or just to
@@ -41,18 +42,18 @@ export default function AboutPage() {
           {/* Contact info */}
           <div className="mt-8 flex flex-col gap-2 text-sm text-muted-foreground">
             <a
-              href="mailto:hello@example.com"
+              href="mailto:zheyue.artist@gmail.com"
               className="transition-colors hover:text-foreground"
             >
-              hello@example.com
+              zheyue.artist@gmail.com
             </a>
             <a
-              href="https://instagram.com"
+              href="https://www.instagram.com/zoey_z_zhang/"
               target="_blank"
               rel="noopener noreferrer"
               className="transition-colors hover:text-foreground"
             >
-              Instagram
+              Instagram: @zoey_z_zhang
             </a>
           </div>
         </div>
