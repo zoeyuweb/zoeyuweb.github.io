@@ -26,6 +26,10 @@ const sketches: GalleryItem[] = [
   { src: "/image/sketch/sket18.jpg", alt: "Sketch 18" },
   { src: "/image/sketch/sket19.jpg", alt: "Sketch 19" },
   { src: "/image/sketch/sket20.jpg", alt: "Sketch 20" },
+  { src: "/image/sketch/sket21.jpg", alt: "Sketch 21" },
+  { src: "/image/sketch/sket22.jpg", alt: "Sketch 22" },
+  { src: "/image/sketch/sket23.jpg", alt: "Sketch 23" },
+  { src: "/image/sketch/sket24.jpg", alt: "Sketch 24" },
 ]
 
 export default function SketchesPage() {
