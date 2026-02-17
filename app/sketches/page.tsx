@@ -5,9 +5,9 @@ import type { GalleryItem } from "@/components/gallery-grid"
   Add or remove sketches freely.
   The gallery handles any aspect ratio — just provide src and alt.
 */
-const sketches: GalleryItem[] = Array.from({ length: 24 }, (_, i) => ({
-  src: `/image/sketch/sket${i + 1}.jpg`,
-  alt: `Sketch ${i + 1}`
+const sketches: GalleryItem[] = Array.from({ length: 24 }, (_,i) => ({
+  src: `/image/sketch/sket${i+1}.jpg`,
+  alt: `Sketch ${i+1}`
 }));
 
 export default function SketchesPage() {
