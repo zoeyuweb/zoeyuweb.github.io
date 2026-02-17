@@ -13,7 +13,7 @@ const books = [
   {
     slug: "book-one",
     title: "The Seamonster's Island",
-    cover: "/image/picturebook/bookcover2.jpg",
+    cover: "/image/picturebook/cover10.png",
   },
   {
     slug: "book-two",
