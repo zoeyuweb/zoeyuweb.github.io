@@ -7,7 +7,7 @@ import type { GalleryItem } from "@/components/gallery-grid"
 */
 const sketches: GalleryItem[] = [
   { src: "/image/sketch/sket1.jpg", alt: "Sketch 1" },
-  { src: "/image/sketch/sket2.jpg", alt: "Sketch 2" },
+  { src: "/image/sketch/skett.jpg", alt: "Sketch 2" },
   { src: "/image/sketch/sket3.jpg", alt: "Sketch 3" },
   { src: "/image/sketch/sket4.jpg", alt: "Sketch 4" },
   { src: "/image/sketch/sket5.jpg", alt: "Sketch 5" },
@@ -18,7 +18,7 @@ const sketches: GalleryItem[] = [
   { src: "/image/sketch/sket10.jpg", alt: "Sketch 10" },
   { src: "/image/sketch/sket11.jpg", alt: "Sketch 11" },
   { src: "/image/sketch/sketot.jpg", alt: "Sketch 12" },
-  { src: "/image/sketch/sket13.jpg", alt: "Sketch 13" },
+  { src: "/image/sketch/sketoe.jpg", alt: "Sketch 13" },
   { src: "/image/sketch/sket14.jpg", alt: "Sketch 14" },
   { src: "/image/sketch/sket15.jpg", alt: "Sketch 15" },
   { src: "/image/sketch/sket16.jpg", alt: "Sketch 16" },
